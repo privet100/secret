@@ -47,7 +47,7 @@
 * https://briarproject.org/
 
 ## gmail
-* установите двухэтапную идентификацию одни из этих способов:
+* установите двухэтапную идентификацию одним из этих способов:
   + Электронный ключ
      - https://landing.google.com/advancedprotection/
   + Приложение Google Authenticator
