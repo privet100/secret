@@ -103,13 +103,14 @@
 * 2 способ:
   + открывать вкладку "Инкогнито"
 
-## На заметку
+## Прочая информация
 * Существуют сервисы для пересылки смс на email
 * После использования любых аккаунтов на чужом компьютере не забывайте выходить из аккаунта
-* Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет сообщать ему постоянно всю Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит, и др. информацию. Примеры таких программ (это не очень актуальный список): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD 
+* Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг этого телефона, и другую информацию.
+  + Примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD 
 
 <!-- TOC --><a name="welcome-to-the-app"></a>
 ## Если Вам нужна более подробная информация, <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
-или здесь что-то недостаточно понятно описано, или Вы можете дополнить эту информацию [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
+или Вы можете дополнить эту информацию [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
 
  [^1]: например, у кого-то из знакомых, или в менеджере паролей, или в каком-то онлайн аккаунте, существование которого держится в секрете (и использование этого аккаунта не сохранено в браузере)
