@@ -67,7 +67,7 @@
 
 ## Безопасный мессенжер для компьютера uTox
 * https://tox.chat/index.html
-* если задать пароль, будет более высокий уровень конфиденциальности
+* желательно задать пароль
 * настройки Advanced
   + выключить протокол IPv6
   + включить протокол UDP для общения удалённо без возможности определения IP 
@@ -105,6 +105,7 @@
 
 ## На заметку
 * Существуют сервисы для пересылки смс на email
+* После использования любых аккаунтов на чужом компьютере не забывайте выходить из аккаунта
 * Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет сообщать ему постоянно всю Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит, и др. информацию. Примеры таких программ (это не очень актуальный список): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD 
 
 <!-- TOC --><a name="welcome-to-the-app"></a>
