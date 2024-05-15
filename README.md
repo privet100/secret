@@ -110,7 +110,7 @@
   + Примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD 
 
 <!-- TOC --><a name="welcome-to-the-app"></a>
-## Если Вам нужна более подробная информация, <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
+## Если Вам нужна более подробная информация <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
 или Вы можете дополнить эту информацию [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
 
  [^1]: например, у кого-то из знакомых, или в менеджере паролей, или в каком-то онлайн аккаунте, существование которого держится в секрете (и использование этого аккаунта не сохранено в браузере)
